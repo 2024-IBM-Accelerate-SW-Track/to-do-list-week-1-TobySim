@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import "src/pages/About.css";
-import profilePic from "src/assets/ProfilePic.JPEG";
+import "./About.css";
+import profilePic from "../assets/ProfilePic.JPEG";
   
 export default class About extends Component {
   render() {
