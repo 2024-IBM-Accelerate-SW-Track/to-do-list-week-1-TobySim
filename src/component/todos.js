@@ -1,5 +1,5 @@
 import React from "react";
-import "src/component/todos.css";
+import "../component/todos.css";
 import {Card,CardContent,Grid,ListItemButton,ListItemText,Checkbox,} from "@mui/material";
 
 // 1. This component formats and returns the list of todos.
